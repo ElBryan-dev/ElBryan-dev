@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/gengar-rain.jpg" width="100%" alt="Gengar pixel art banner"/>
+  <img src="./assets/gengar-rain.jpg" width="80%" alt="Gengar pixel art banner"/>
 </p>
 
 <h1 align="center">¡Hola! Soy Bryan Acosta 👋</h1>
