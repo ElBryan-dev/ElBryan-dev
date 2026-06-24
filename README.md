@@ -1,25 +1,24 @@
-<p align="center">
-  <img src="./assets/gengar-rain.jpg" width="280" alt="Gengar pixel art banner"/>
-</p>
-
-<h1 align="center">¡Hola! Soy Bryan Acosta 👋</h1>
-<h3 align="center">Desarrollador Full Stack todo terreno 🚀</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+%7C+Desktop+%7C+Mobile+%7C+Automation;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bryan-antonio-acosta-ysidro-27901a2b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:bryan.info2001@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-2F80ED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="240">
+      <img src="./assets/gengar-rain.jpg" width="220" alt="Gengar pixel art banner"/>
+    </td>
+    <td>
+      <h1>¡Hola! Soy Bryan Acosta 👋</h1>
+      <h3>Desarrollador Full Stack todo terreno 🚀</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F80ED&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Web+%7C+Desktop+%7C+Mobile+%7C+Automation;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" /><br/><br/>
+      <a href="https://www.linkedin.com/in/bryan-antonio-acosta-ysidro-27901a2b7" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Portfolio-2F80ED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+      </a>
+      <a href="mailto:bryan.info2001@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-2F80ED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
