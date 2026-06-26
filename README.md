@@ -127,7 +127,15 @@ No me encasillo en una sola cosa. Construyo **sitios web**, **apps de escritorio
         <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
       </p>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <h4>💌 Mimositos</h4>
+      <p>Landing comercial para una tienda de regalos personalizados, con catálogo filtrable por categoría, galería con lightbox y pedidos integrados directo a WhatsApp con mensaje autogenerado.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-JavaScript-2F80ED?style=flat-square&logo=javascript&logoColor=white"/>
+      </p>
+    </td>
   </tr>
 </table>
 
