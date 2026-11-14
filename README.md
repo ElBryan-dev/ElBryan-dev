@@ -5,7 +5,6 @@
     </td>
     <td>
       <h1>¡Hola! Soy Bryan Acosta 👋</h1>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2F80ED&center=false&vCenter=true&width=500&lines=Full+Stack+Developer;Web+%7C+Desktop+%7C+Mobile+%7C+Automation;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" /><br/><br/>
       <a href="https://www.linkedin.com/in/bryan-antonio-acosta-ysidro-27901a2b7" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
